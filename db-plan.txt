@@ -1,0 +1,25 @@
+DATABASE PLAN
+-------------
+
+users
+-id
+-username
+-email
+-password
+-created
+-updated
+
+user_info
+-id
+-uid
+-fname
+-lname
+-mobile
+-created
+-updated
+
+password_reset
+-id
+-uid
+-reset_token
+-created
